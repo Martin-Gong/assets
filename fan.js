@@ -1,3 +1,4 @@
+alert("ran");
 var myString = function(){/*
 
 Editable plaintext or whatever goes here!
