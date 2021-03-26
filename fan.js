@@ -1,4 +1,4 @@
-var myString = function(){
+var myString = function(){/*
 
 Editable plaintext or whatever goes here!
 Multiline, too!
