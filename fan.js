@@ -1,9 +1,6 @@
 alert("ran");
 var myString = function(){/*
-
-Editable plaintext or whatever goes here!
-Multiline, too!
-
+  
 <meta charset="UTF-8">
 <style>
     .row {
