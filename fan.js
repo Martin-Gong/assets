@@ -1,6 +1,5 @@
-alert("ran");
-var myString = function(){/*
-  
+var fanList = function(){/*
+
 <meta charset="UTF-8">
 <style>
     .row {
@@ -119,4 +118,4 @@ var myString = function(){/*
 </div>
 
 */}.toString().slice(15,-4);
-document.getElementById('content').innerHTML = myString;
+document.getElementById('fan').innerHTML = fanList;
